@@ -9,9 +9,9 @@ and open the template in the editor.
 */
 
 .body_wrapper {
-    
+
     width: 100%;
-    
+
 }
 
 header {
@@ -25,8 +25,8 @@ header {
     max-width: 75%;
     position: relative;
     margin: 5% auto;
-    
-    
+
+
 }
 
 #navbar_wrapper > ul > li {
@@ -34,19 +34,22 @@ header {
     color: white;
     padding: 2%;
     font-variant: small-caps;
-    
 }
 
 #navbar_wrapper >ul >li:first-child {
     padding-left: 0%;
-    
-    
+
 }
 
 #phone_icon {
-   float: right;
-   padding-right: 3%;
-    
-   
-    
+    float: right;
+    padding-right: 3%;
+
+}
+
+.vertical-text {
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+    float: right;
+    color: white;
 }
