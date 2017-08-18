@@ -52,4 +52,5 @@ header {
     transform-origin: left top 0;
     float: right;
     color: white;
+    clear: both;
 }
