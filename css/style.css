@@ -28,3 +28,11 @@ header {
     
     
 }
+
+#navbar_wrapper > ul > li {
+    display: inline-block;
+    color: white;
+    padding: 3%;
+    font-variant: small-caps;
+    
+}
