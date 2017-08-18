@@ -9,9 +9,7 @@ and open the template in the editor.
 */
 
 .body_wrapper {
-
     width: 100%;
-
 }
 
 header {
@@ -25,8 +23,6 @@ header {
     max-width: 75%;
     position: relative;
     margin: 5% auto;
-
-
 }
 
 #navbar_wrapper > ul > li {
