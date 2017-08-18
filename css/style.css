@@ -13,3 +13,15 @@ and open the template in the editor.
     width: 100%;
     
 }
+
+header {
+    width: 100%;
+    text-align: center;
+}
+
+
+#header_wrapper {
+    max-width: 75%;
+    margin: 0 auto;
+    
+}
