@@ -30,6 +30,7 @@ header {
     color: white;
     padding: 2%;
     font-variant: small-caps;
+    font-size: 1.2em;
 }
 
 #navbar_wrapper >ul >li:first-child {
@@ -45,8 +46,12 @@ header {
 
 .vertical-text {
     transform: rotate(90deg);
-    transform-origin: left top 0;
+    transform-origin: right top;
     float: right;
     color: white;
     clear: both;
+    padding-top: 3%;
+    display: inline-block;
+    
+        
 }
