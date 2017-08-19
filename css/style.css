@@ -92,3 +92,7 @@ header {
     line-height: 40px;
 
 }
+
+#header_scroll {
+    margin-top: 20%;
+}
