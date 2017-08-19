@@ -81,3 +81,12 @@ header {
     
 }
 
+#header_subtitle {
+    font-family: AbrahamLincoln;
+    font-size: 40pt;
+    color: white;
+    font-variant: small-caps;
+    line-height: 40px;
+    
+    
+}
