@@ -62,14 +62,18 @@ header {
     right: 4%;
     top: 90%;
     width: 30%;
-    
+
 }
 
 .vertical-text > li {
     display: inline;
     padding-left: 5%;
     font-variant: small-caps;
-    
+
+}
+
+#header_text {
+    margin-top: 18%;
 }
 
 #header_title {
@@ -77,8 +81,7 @@ header {
     font-size: 100pt;
     color: #ffa800;
     font-variant: small-caps;
-    
-    
+
 }
 
 #header_subtitle {
@@ -87,6 +90,5 @@ header {
     color: white;
     font-variant: small-caps;
     line-height: 40px;
-    
-    
+
 }
