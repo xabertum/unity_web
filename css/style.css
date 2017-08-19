@@ -46,12 +46,17 @@ header {
 
 .vertical-text {
     transform: rotate(90deg);
-    transform-origin: right top;
-    float: right;
+    transform-origin: right;
     color: white;
-    clear: both;
-    padding-top: 3%;
-    display: inline-block;
+    position: absolute;
+    right: 4.5%;
+    top: 56%;
     
-        
 }
+
+.vertical-text > li {
+    display: inline;
+    padding-left: 5%;
+    
+}
+
