@@ -8,6 +8,12 @@ and open the template in the editor.
     Author     : xabertum
 */
 
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+
 .body_wrapper {
     width: 100%;
 }
@@ -58,6 +64,7 @@ header {
 .vertical-text > li {
     display: inline;
     padding-left: 5%;
+    font-variant: small-caps;
     
 }
 
