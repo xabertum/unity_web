@@ -99,9 +99,22 @@ header {
 
 
 #brush_section {
-    
     height: 900px;
-    color: #694fca;
+    background-color: #694fca;
+    position: relative;
     
+}
+
+#brush_wrapper {
+    width: 75%;
+    margin: 0 auto;
+       
+}
+
+#brush_img {
+    width: 75%;
+    margin: 0 auto;
+    position: absolute;
+    top: -25%;
     
 }
