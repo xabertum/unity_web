@@ -16,8 +16,6 @@ and open the template in the editor.
     src: url(../fonts/AbrahamLincoln.ttf);
 }
 
-
-
 .body_wrapper {
     width: 100%;
 }
@@ -95,4 +93,15 @@ header {
 
 #header_scroll {
     margin-top: 20%;
+}
+
+/***********************************/
+
+
+#brush_section {
+    
+    height: 900px;
+    color: #694fca;
+    
+    
 }
