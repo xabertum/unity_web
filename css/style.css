@@ -105,18 +105,15 @@ header {
     
 }
 
-#brush_wrapper {
-    width: 75%;
-    margin: 0 auto;
-       
+#brush_img {
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 37.5%
+    
 }
 
-#brush_img {
-    width: 35%;
-    display: block;
-    margin: 0 auto;
-    position: absolute;
-    top: -25%;
-    left: 37.5%
+#text_brush_01 {
+    font-size: 350pt;
     
 }
