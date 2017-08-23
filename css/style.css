@@ -108,12 +108,6 @@ header {
 #brush_img {
     width: 80%;
     position: absolute;
-    top: 50%;
-    left: 37.5%
-    
+ 
 }
 
-#text_brush_01 {
-    font-size: 350pt;
-    
-}
