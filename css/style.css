@@ -103,9 +103,9 @@ header {
 
 
 #brush_section {
-    height: 1500px;
     background-color: #694fca;
     position: relative;
+    min-height: 1100px;
 
 }
 
@@ -129,7 +129,7 @@ header {
     color: white;
     font-size: 4em;
     font-family: AbrahamLincoln;
-    margin-top: 55%;
+    margin-top: 45%;
     clear: both;
 }
 
@@ -138,7 +138,7 @@ header {
     font-family: Poppins;
     color: white;
     max-width: 750px;
-    margin-top: 60%;
+    margin-top: 53%;
     float: right;
 }
 
@@ -155,7 +155,7 @@ hr {
 }
 
 .row {
-    padding-top: 80%;  
+    padding-top: 70%;  
     
 }
 
@@ -165,4 +165,11 @@ hr {
     padding-bottom: 5%;
 }
 
-
+.col-md-4 > p:nth-child(4) {
+    
+    font-family: Poppins;
+    color: white;
+    font-size: 1.2em;
+    
+    
+}
