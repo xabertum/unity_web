@@ -144,6 +144,9 @@ header {
 
 .smallCaps {
     font-variant: small-caps;
+    font-size: 1.5em;
+    color: #ffa800;
+    
 }
 
 hr {
