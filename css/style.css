@@ -145,7 +145,7 @@ header {
     font-variant: small-caps;
     font-size: 1.5em;
     color: #ffa800;
-    
+
 }
 
 hr {
@@ -155,7 +155,7 @@ hr {
 
 .row {
     padding-top: 70%;  
-    
+
 }
 
 
@@ -165,11 +165,11 @@ hr {
 }
 
 .col-md-4 > p:nth-child(4) {
-    
+
     font-family: Poppins;
     color: white;
     font-size: 1.2em;
-       
+
 }
 
 /***********************************/
@@ -177,7 +177,7 @@ hr {
 
 #honor_details_wrapper {
     position: relative;
-    
+
 }
 
 #honor_details {
@@ -185,18 +185,63 @@ hr {
     left: 28%;
     margin-top: -13%;
     width: 50%;
-  
+
 }
 
 /************************************/
 
 #wwdo_img {
     margin-top: 35%;
-    
+
 }
 
 /*** MEDIA QUERIES ******************/
 
+@media only screen and (max-width: 1920px) {
+    #brush_img {
+        top: -16%;
+    }
+
+    #wrapper {
+        width: 60%;
+
+    }
+
+    #subtitle-brush {
+        margin-top: 52%;
+
+    }
+
+    .vertical-text {
+        top: 100%;
+    }
+
+}
 
 
+@media only screen and (max-width: 1440px) and (min-width: 1200px) {
+    #wrapper {
+        width: 70%;
+    }
 
+    #brush_img {
+        top: -12%;
+    }
+
+    #subtitle-brush {
+        font-size: 1.4em;
+    }
+    #header_text {
+        margin-top: 8%;
+    }
+
+    .vertical-text {
+        top: 120%;
+    }
+
+    #header_scroll {
+        margin-top: 13%;
+    }
+
+
+}
