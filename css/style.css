@@ -99,24 +99,24 @@ header {
 
 
 #brush_section {
-    height: 900px;
+    height: 1500px;
     background-color: #694fca;
     position: relative;
-        
+
 }
 
 #brush_img {
     left: 26%;
     width: 50%;
     position: absolute;
-    top: -25%;
- 
+    top: -23%;
+
 }
 
 #wrapper {
     width: 50%;
     margin: 0 auto;
-       
+
 }
 
 #wrapper-text {
@@ -126,14 +126,26 @@ header {
     font-size: 3em;
     margin-top: 55%;
     clear: both;
- }
+}
 
- #subtitle-brush {
-     font-size: 1.5em;
-     color: white;
-     max-width: 750px;
-     margin-top: 60%;
-     float: right;
-     
- }
+#subtitle-brush {
+    font-size: 1.5em;
+    color: white;
+    max-width: 750px;
+    margin-top: 60%;
+    float: right;
+}
+
+.container {
+    width: 100%;
+}
+.row {
+    padding-top: 90%;
+    
+    
+}
+.glyphicon-tag {
+    font-size: 2em;
+}
+
 
