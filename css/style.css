@@ -113,3 +113,18 @@ header {
  
 }
 
+#wrapper {
+    width: 50%;
+    margin: 0 auto;
+       
+}
+
+#wrapper-text {
+    float: left;
+    max-width: 250px;
+    color: white;
+    font-size: 3em;
+    margin-top: 55%;
+    
+}
+
