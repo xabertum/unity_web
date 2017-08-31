@@ -105,7 +105,7 @@ header {
 #brush_section {
     background-color: #694fca;
     position: relative;
-    min-height: 1100px;
+    min-height: 1200px;
 
 }
 
@@ -114,7 +114,6 @@ header {
     width: 50%;
     position: absolute;
     top: -23%;
-
 }
 
 #wrapper {
@@ -170,6 +169,21 @@ hr {
     font-family: Poppins;
     color: white;
     font-size: 1.2em;
+       
+}
+
+/***********************************/
+
+
+#honor_details_wrapper {
+    position: relative;
     
-    
+}
+
+#honor_details {
+    position: absolute;
+    left: 28%;
+    margin-top: -13%;
+    width: 50%;
+  
 }
