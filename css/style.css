@@ -15,6 +15,10 @@ and open the template in the editor.
     font-family: AbrahamLincoln;
     src: url(../fonts/AbrahamLincoln.ttf);
 }
+@font-face {
+    font-family: Poppins;
+    src: url(../fonts/poppins/poppins-Regular.ttf);
+}
 
 .body_wrapper {
     width: 100%;
@@ -123,29 +127,39 @@ header {
     float: left;
     max-width: 250px;
     color: white;
-    font-size: 3em;
+    font-size: 4em;
+    font-family: AbrahamLincoln;
     margin-top: 55%;
     clear: both;
 }
 
 #subtitle-brush {
     font-size: 1.5em;
+    font-family: Poppins;
     color: white;
     max-width: 750px;
     margin-top: 60%;
     float: right;
 }
 
-.container {
-    width: 100%;
+.smallCaps {
+    font-variant: small-caps;
 }
+
+hr {
+    max-width: 25%;
+    margin-left: 0;
+}
+
 .row {
-    padding-top: 90%;
-    
+    padding-top: 80%;  
     
 }
+
+
 .glyphicon-tag {
     font-size: 2em;
+    padding-bottom: 5%;
 }
 
 
